@@ -9,3 +9,9 @@ Described in tweets? Yes, for now only tweets as the first order source of truth
 ## Waste
 
 * https://twitter.com/souders/status/625101590613987328
+
+---
+
+## Customer Service
+
+* https://twitter.com/slicknet/status/623266620228513793
